@@ -1,0 +1,37 @@
+
+COGS 125 / CSE 175 : Introduction to Artificial Intelligence
+PROGRAMMING ASSIGNMENT #1 EVALUATION
+
+
+Student: Jocelyn Chan
+
+
+*  Uniform Cost Search does not consistently expand nodes when appropriate.
+
+
+*  A-Star Search does not consistently expand nodes when appropriate.
+
+
+SCORE:   960 / 1000
+
+-----
+
+Uniform Cost Search Works Correctly In Common Cases           100 / 100
+Uniform Cost Search Correctly Handles Unreachable Goals        20 /  20
+Uniform Cost Search Correctly Handles One-Way Streets          20 /  20
+Uniform Cost Search Expands Nodes Appropriately                 0 /  20
+Uniform Cost Search Correctly Does Repeated State Checking     40 /  40
+Greedy Search Works Correctly In Common Cases                 150 / 150
+Greedy Search Correctly Handles Unreachable Goals              20 /  20
+Greedy Search Correctly Handles One-Way Streets                20 /  20
+Greedy Search Expands Nodes Appropriately                      20 /  20
+Greedy Search Correctly Does Repeated State Checking           40 /  40
+A* Search Works Correctly In Common Cases                     150 / 150
+A* Search Correctly Handles Unreachable Goals                  20 /  20
+A* Search Correctly Handles One-Way Streets                    20 /  20
+A* Search Expands Nodes Appropriately                           0 /  20
+A* Search Correctly Does Repeated State Checking               40 /  40
+Heuristic Function Admissibility                              100 / 100
+Heuristic Function Quality                                    100 / 100
+Code Style & Comments                                         100 / 100
+
