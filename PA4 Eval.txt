@@ -1,0 +1,20 @@
+
+COGS 125 / CSE 175 : Introduction to Artificial Intelligence
+PROGRAMMING ASSIGNMENT #4 EVALUATION
+
+
+Student: Jocelyn Chan
+
+
+*  Good work!
+
+
+SCORE:  1000 / 1000
+
+-----
+
+Correctness of Linear Network                                 200 / 200
+Correctness of Single Hidden Layer Network                    300 / 300
+Correctness of Double Hiddern Layer Network                   400 / 400
+Code Style & Comments                                         100 / 100
+
